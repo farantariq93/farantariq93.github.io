@@ -9,7 +9,7 @@
 					<!-- /.toggle-menu -->
 
 					<div class="site-mobile-logo">
-						<a href="home.php" class="logo">
+						<a href="/" class="logo">
 							<img src="assets/img/wage-min-logo.png" alt="site logo" class="main-logo">
 							<img src="assets/img/wage-min-logo.png" alt="site logo" class="sticky-logo">
 						</a>
@@ -22,7 +22,7 @@
 						</div>
 
 						<div class="site-logo">
-							<a href="home.php" class="logo">
+							<a href="/" class="logo">
 								<img src="assets/img/wage-min-logo.png" alt="site logo" class="main-logo">
 								<img src="assets/img/wage-min-logo.png" alt="site logo" class="sticky-logo">
 							</a>
@@ -31,7 +31,7 @@
 
 						<div class="menu-wrapper" data-top="992">
 							<ul class="site-main-menu">
-								<li><a href="home.php" title="Home">Home</a></li>
+								<li><a href="/" title="Home">Home</a></li>
 								<li><a href="about-us.php" title="About">About</a></li>
 								<li><a href="database.php" title="Database">Database</a></li>
 								<li><a href="services.php" title="Services">Services</a></li>

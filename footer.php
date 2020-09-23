@@ -40,7 +40,7 @@
 								<div class="widget footer-widget">
 									<h3 class="widget-title">Quick Links</h3>
 									<ul class="footer-menu">
-										<li><a href="home.php" title="Home">Home</a></li>
+										<li><a href="/" title="Home">Home</a></li>
 										<li><a href="about-us.php" title="About">About</a></li>
 										<li><a href="database.php" title="Database">Database</a></li>
 										<li><a href="services.php" title="Services">Services</a></li>
